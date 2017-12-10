@@ -1,0 +1,79 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+
+
+
+
+body{
+  background-color: #292929;
+  p{
+    color: #B3B3B3;
+  }
+  div.trait{
+    height: 1px;
+    background-color: red;
+  }
+
+  div#searchbar{
+    float: right;
+    margin-top: 15px;
+  }
+
+  div.populaire{
+    background-color: #1F1F1F;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+div.Recommande{
+  background-color: #1F1F1F;
+}
+  nav{
+    margin-top: auto ;
+    margin-bottom: 20px;
+    background-color: #171717;
+    color: white;
+    padding-top: auto;
+    padding-bottom: auto;
+    border-bottom: 1px solid red;
+   ul{
+     list-style: none!important;
+     li{
+       margin-top: 15px;
+
+     }
+
+   }
+
+    img{
+      height: 50px;
+    }
+
+
+    div.menu-pc-droite{
+      position: right;
+      margin: 0;
+      padding: 0;
+
+    img.user{
+      margin-right: 20%;
+    }
+
+      form{
+        margin-left: auto;
+        margin-right: auto;
+        position: right;
+      }
+    }
+
+    div.menu-pc-gauche{
+      float: left;
+    }
+  }
+  h1{
+color: white;
+  }
+  h2{
+    color: #C2C2C2;
+  }
+}
